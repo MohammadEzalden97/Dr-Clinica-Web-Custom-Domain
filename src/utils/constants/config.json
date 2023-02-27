@@ -1,0 +1,12 @@
+{
+    "ACCESSTOKEN" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ",
+    "SERVER_URL" : "http://localhost:8080/backend/",
+    "IMAGES_URL" : "http://localhost:8080/backend/assets/images/",
+    "LOCATION_SUBURL" : "business/",
+    "CAT_SUBURL" : "categories/",
+    "SERVICE_SUBURL" : "services/",
+    "PROFILE_SUBURL" : "partner/profile/",
+    "BUSINESS_SUBURL" : "business/",
+    "CUSTOMER_SUBURL" : "customer/",
+    "DOMAIN" : "localhost:3000"
+}
